@@ -3,11 +3,14 @@ Utilities
 
 This section shows general objects and helper functions that are used with this package.
 
+.. autoclass:: balderhub.email.lib.utils.EmailDataMessage
+    :members:
 
-.. note::
-    This BalderHub project doesn't have any utilities.
+Support
+=======
 
+.. autoclass:: balderhub.email.lib.utils.EmailHeader
+    :members:
 
-.. todo add your scenarios with .. autoclass
-    .. autoclass:: balderhub.email.lib.utilities.MyExampleUtility
-        :members:
+.. autoclass:: balderhub.email.lib.utils.EmailAddress
+    :members:

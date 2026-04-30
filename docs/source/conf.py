@@ -26,9 +26,8 @@ extensions = [
     'sphinx.ext.intersphinx',
 ]
 
-# TODO add all BalderHub projects you want to refer to in your documentation.
 intersphinx_mapping = {
-    # 'balderhub-data': ('https://hub.balder.dev/projects/data/en/latest/', None),
+    'balderhub-smtp': ('https://hub.balder.dev/projects/smtp/en/latest/', None),
 }
 
 templates_path = ['_templates']
