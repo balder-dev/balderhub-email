@@ -8,12 +8,8 @@ This section describes all features that are shipped with this package.
 Scenario Features
 =================
 
-.. note::
-    This package does not provide any scenario features
-
-.. todo add your features with .. autoclass
-    .. autoclass:: balderhub.email.lib.scenario_features.MyScenarioFeature
-        :members:
+.. autoclass:: balderhub.email.lib.scenario_features.EmailReaderFeature
+    :members:
 
 
 Setup Features
