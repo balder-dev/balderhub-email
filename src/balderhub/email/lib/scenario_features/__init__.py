@@ -1,6 +1,6 @@
-# TODO add classes / functions from module (if any)
-# TODO delete module if it has no sub elements
+from .email_reader_feature import EmailReaderFeature
+
 
 __all__ = [
-
+    'EmailReaderFeature',
 ]
