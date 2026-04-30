@@ -1,6 +1,10 @@
-# TODO add classes / functions from module (if any)
-# TODO delete module if it has no sub elements
+from .email_address import EmailAddress
+from .email_data_message import EmailDataMessage
+from .email_header import EmailHeader
+
 
 __all__ = [
-
+    'EmailAddress',
+    'EmailDataMessage',
+    'EmailHeader'
 ]
